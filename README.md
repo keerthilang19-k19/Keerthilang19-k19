@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Keerthi 
 
-<!--
-**keerthilang19-k19/Keerthilang19-k19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+🎓 B.Sc. Cyber Security Student at SRMIST, Chennai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+I am a cybersecurity student interested in network security, cybercrime investigation, digital forensics and information security.
+
+I am continuously developing my technical skills and exploring cybersecurity technologies.
+
+Technical Skills
+
+- Python – Basic
+- Computer Networking – Beginner
+- Linux – Beginner
+- Cybersecurity Fundamentals
+
+Academic Project
+
+DNS-Based Data Exfiltration Detector with Honeypot
+
+An academic cybersecurity project focused on identifying suspicious DNS traffic and detecting potential data exfiltration activities using a honeypot concept.
+
+Areas of Interest
+
+- Network Security
+- Cybercrime Investigation
+- Cyber Intelligence
+- Digital Forensics
+
+Education
+
+B.Sc. Cyber Security
+SRM Institute of Science and Technology (SRMIST), Chennai
+
+Career Goal
+
+To begin my career in cybersecurity and develop practical skills in security analysis and cybercrime investigation.
